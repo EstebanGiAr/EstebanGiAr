@@ -1,5 +1,5 @@
-# Hi 👋, I'm Esteban Giraldo
 ![EstebanGiAr](https://github.com/EstebanGiAr/EstebanGiAr/assets/140731840/dee2cc24-6153-4d27-94ec-cf245733006c)
+# Hi 👋, I'm Esteban Giraldo
 
 ## 💫 About Me:
 I'm a junior developer from Colombia. I'm passionate about web development with a strong interest in frontend. I enjoy projects that challenge me and help me achieve significant growth in my professional life.<br>    
